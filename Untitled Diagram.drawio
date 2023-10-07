@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-07T18:07:04.203Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="kNbd5dreErpup85S1Mk7" version="22.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-07T18:07:13.022Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="zWrYYXzVQb1I7rxTaH-U" version="22.0.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1042" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -171,7 +171,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mfvChuHM7UiGOmM7VRAI-1" value="ถ้าสถานะเอกสารเป็น APPROVED" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="482" y="370" width="80" height="80" as="geometry" />
+          <mxGeometry x="461" y="370" width="122" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mfvChuHM7UiGOmM7VRAI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mfvChuHM7UiGOmM7VRAI-2" target="mfvChuHM7UiGOmM7VRAI-3">
           <mxGeometry relative="1" as="geometry" />
